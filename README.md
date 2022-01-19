@@ -1,4 +1,5 @@
 # Kaggle competition - Natural Language Processing with Disaster Tweets
+#### [Slide for the project](https://github.com/garyhsu29/Natural-Language-Processing-with-Disaster-Tweets/blob/main/Natural%20Language%20Processing%20with%20Disaster%20Tweets.pdf)
  
 ### Attempt 1: Use Keyword and Location as feature
 - Keyword Preprocessing: Remove URL encoding
